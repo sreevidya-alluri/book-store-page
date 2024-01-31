@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home {
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    padding: 16px;
+    margin: 5px;
+}
+
+.home-heading {
+    color: #ffffff;
+    font-family: "Bree-Serif";
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.card1 {
+    background-color: #ffffff;
+    height: 30vh;
+    width: 85vw;
+    padding: 5px;
+    margin: 2px;
+    border-radius: 10px;
+}
+
+.card1-head {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: "Roboto";
+    padding: 2px;
+    text-align: center;
+}
+
+.card1-img {
+    height: 25vh;
+    width: 30vw;
+    margin: 0px;
+    padding: 0px;
+}
+
+.card1-para {
+    color: #06070d;
+    font-family: "Bree-Serif";
+    padding: 2px;
+    text-align: center;
+}
+
+.card1-para2 {
+    color: #9aa5b1;
+    font-family: "Bree-Serif";
+    font-size: 20px;
+    padding: 2px;
+    text-align: center;
+}
+
+.home-heading2 {
+    color: #ffffff;
+    font-family: "Bree-Serif";
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.card-img1 {
+    height: 25vh;
+    width: 30vw;
+    margin: 2px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.home-paraa {
+    color: #ffffff;
+    font-family: "Bree-Serif";
+    font-size: 10px;
+    text-align: left;
+    margin: 10px;
+}
+
+
+.container2 {
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    margin: 10px;
+}
+
+.imagee-all {
+    height: 50vh;
+    width: 40vw;
+    margin-left: 10vh;
+    margin-bottom: 10vh;
+    margin-right: 10vh;
+    margin-top: 2px;
+}
+
+.button {
+    background-color: yellow;
+    height: 70px;
+    width: 100px;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+.button1 {
+    background-color: blue;
+    height: 70px;
+    width: 100px;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+}
